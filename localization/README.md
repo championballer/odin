@@ -4,4 +4,12 @@
 
 2. The environments for localization can also vary over time, leading to the distinction between static and dynamic environments, which obviouslly add more complexity to the localization problems. 
 
-3. There are some popular ways of solving the localization problem i.e. Extended Kalman Filter method, Monte Carlo, etc. 
+3. There are some popular ways of solving the localization problem i.e. Extended Kalman Filter method, Monte Carlo, etc.
+
+## Kalman Filter 
+
+4. Kalman Filter is an estimation
+
+# Links 
+
+1. Unscented Kalman Filter : http://ais.informatik.uni-freiburg.de/teaching/ws12/mapping/pdf/slam05-ukf.pdf
