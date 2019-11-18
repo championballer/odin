@@ -1,2 +1,2 @@
 # odin
-A repository for independent code written for fun or experiments.
+A repository for independent code written, notes and related documents for fun or experiments.
