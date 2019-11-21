@@ -3,6 +3,10 @@ A repository for independent code written, notes and related documents for fun o
 
 ## Gone Through
 
+| What | Description | Notes available|
+| ------- | ------- | ------- |
+|Autograd | | |
+
 ### Notes Available
 
 ### Notes Not Available (_yet_)
