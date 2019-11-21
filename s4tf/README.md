@@ -10,4 +10,5 @@ https://www.analyticsvidhya.com/blog/2019/10/comprehensive-guide-learn-swift-fro
 https://medium.com/@micosmin/swift-computed-properties-2a8fd9f88d6 : Computed Properties in Swift
 https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d : MLIR announcement article on medium  
 https://www.youtube.com/watch?v=9FWsSGD6V8Q : S4TF Tensorflow world  
+https://docs.google.com/document/d/1Fm56p5rV1t2Euh6WLtBFKGqI43ozC3EIjReyLk-LCLU/edit# : The design google doc with meeting links
 
