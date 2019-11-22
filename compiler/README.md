@@ -1,0 +1,3 @@
+# Compiler 
+
+This module contains the hopes and aspirations to create my own small scale compiler and the resources and links related to that endeavour. I might end up finishing this in a week or might not be able to finish this at all. Hence it's a part of odin, rather than being an independent repo of its own, which may happen at some point given that I feel confident that I have done enough work on the same. 
