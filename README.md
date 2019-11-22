@@ -1,6 +1,12 @@
 # odin
 A repository for independent code written, notes and related documents for fun or experiments.
 
+## Important Tutorials/References
+
+| Title | Description | Link |
+| ----- | ----------- | ---- |
+| Subplots | Working with and around subplots in matplotlib | https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html |
+
 ## Gone Through
 
 | What | Description | Notes available|
