@@ -7,6 +7,16 @@ A repository for independent code written, notes and related documents for fun o
 | ----- | ----------- | ---- |
 | Subplots | Working with and around subplots in matplotlib | https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html |
 
+## To do tasks
+
+| Task |  
+|Work on visualisations for one complete weekend|
+
+## Completed tasks
+
+| Task | Document |
+| | | 
+
 ## Gone Through
 
 | What | Description | Notes available|
