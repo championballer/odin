@@ -15,7 +15,7 @@ A repository for independent code written, notes and related documents for fun o
 ## Completed tasks
 
 | Task | Document |
-| | | 
+| ----- | -------- | 
 
 ## Gone Through
 
