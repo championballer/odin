@@ -23,9 +23,10 @@ A repository for independent code written, notes and related documents for fun o
 
 ## Gone Through
 
-| What | Description | Notes available|
-| ------- | ------- | ------- |
-|Autograd | | |
+| What | Description | Notes available| Resource Link | 
+| ------- | ------- | ------- | ------ |
+|Autograd | | | | 
+|Backpropagation through time | An explanation on backpropagation through time | | http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/ | 
 
 ## To read 
 
