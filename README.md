@@ -8,6 +8,7 @@ A repository for independent code written, notes and related documents for fun o
 | Subplots | Working with and around subplots in matplotlib | https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html |
 | Optimisation Algorithms|https://ruder.io/optimizing-gradient-descent |
 | Loss functions | |
+| Git | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
 
 ## To do tasks
 
@@ -15,6 +16,8 @@ A repository for independent code written, notes and related documents for fun o
 | ---- |
 |Work on visualisations for one complete weekend|
 |Reading about different optimisation algorithms and coding them out | 
+|Going through the git blog tutorial |
+
 
 ## Completed tasks
 
