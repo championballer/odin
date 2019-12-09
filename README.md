@@ -6,9 +6,9 @@ A repository for independent code written, notes and related documents for fun o
 | Title | Description | Link |
 | ----- | ----------- | ---- |
 | Subplots | Working with and around subplots in matplotlib | https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html |
-| Optimisation Algorithms|https://ruder.io/optimizing-gradient-descent |
-| Loss functions | |
-| Git | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
+| Optimisation Algorithms||https://ruder.io/optimizing-gradient-descent |
+| Loss functions | | |
+| Git | | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
 
 ## To do tasks
 
@@ -29,8 +29,8 @@ A repository for independent code written, notes and related documents for fun o
 | What | Description | Notes available| Resource Link | 
 | ------- | ------- | ------- | ------ |
 |Autograd | | | | 
-|Backpropagation through time | An explanation on backpropagation through time | | http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/ | 
-| Rebasing forked repo to original repo | https://digitaldrummerj.me/git-syncing-fork-with-original-repo/|
+|Backpropagation through time | An explanation on backpropagation through time | | | http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/ | 
+| Rebasing forked repo to original repo | | |https://digitaldrummerj.me/git-syncing-fork-with-original-repo/|
 
 ## To read 
 
@@ -43,3 +43,4 @@ A repository for independent code written, notes and related documents for fun o
 |Probabilistic Programming Language|-|
 |A visual proof that neural nets can compute any function|http://neuralnetworksanddeeplearning.com/chap4.html | 
 |Optimisation algorithms|https://ruder.io/optimizing-gradient-descent|
+|Introduction to probabilistic programming languages | https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce |
