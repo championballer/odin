@@ -44,3 +44,4 @@ A repository for independent code written, notes and related documents for fun o
 |A visual proof that neural nets can compute any function|http://neuralnetworksanddeeplearning.com/chap4.html | 
 |Optimisation algorithms|https://ruder.io/optimizing-gradient-descent|
 |Introduction to probabilistic programming languages | https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce |
+|Federated learning||
