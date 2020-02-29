@@ -27,6 +27,6 @@ elem' y (x:xs)
 qsort :: (Eq a, Ord a) => [a] -> [a]
 qsort [] = []
 qsort (x:xs) =
-	let leftElements = qsort [a | a<-xs,a<=x ]
-	    rightElements = qsort [b | b<-xs,b>x ]
-	in leftElements ++ [x] ++ rightElements
+    let leftElements = qsort [a | a<-xs,a<=x ]
+        rightElements = qsort [b | b<-xs,b>x ]
+    in leftElements ++ [x] ++ rightElements
