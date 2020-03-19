@@ -3,6 +3,8 @@ import Torch.Functional
 import Torch.Autograd
 import Torch.TensorFactories
 
+module MultiLayerAutograd where
+
 main = do
  xi <- makeIndependent $ asTensor([[1],[2],[3],[4]]::[[Float]])
  wi1 <- makeIndependent $ ones' [4,3]
