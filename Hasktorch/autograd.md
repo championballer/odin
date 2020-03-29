@@ -20,7 +20,7 @@
 
 <div align = "center">
 
-### Derivative of Loss w.r.t. w<sub>211</sub>
+### Derivative of Loss w.r.t. w<sub>211</sub> (weight connecting the first unit in 2nd layer, with the first unit in the next layer)
 <img src="https://render.githubusercontent.com/render/math?math=\frac{\partial L}{\partial w_{211}} = \frac{\partial L}{\partial y} \ast \frac{\partial y}{\partial y_{in}} \ast \frac{\partial y_{in}}{\partial w_{211}}" width=200px height=40px>
 </div>
 
@@ -39,7 +39,7 @@ The gradient for other weights in the layer can also be derived in a similar man
 
 <div align = "center">
 
-### Derivative of Loss w.r.t. w<sub>111</sub>
+### Derivative of Loss w.r.t. w<sub>111</sub> (weight connecting the first unit in 1st layer, with the first unit in the next layer)
 <img src="https://render.githubusercontent.com/render/math?math=\frac{\partial L}{\partial w_{111}} = \frac{\partial L}{\partial y} \ast \frac{\partial y}{\partial y_{in}} \ast \frac{\partial y_{in}}{\partial h_1} \ast \frac{\partial h_1}{\partial a_1} \ast \frac{\partial a_1}{\partial w_{111}}" width=300px height=40px>
 </div>
 
