@@ -32,6 +32,7 @@ A repository for independent code written, notes and related documents for fun o
 |Backpropagation through time | An explanation on backpropagation through time | | | http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/ | 
 | Rebasing forked repo to original repo | | |https://digitaldrummerj.me/git-syncing-fork-with-original-repo/|
 | Rebasing and updating pull request | | | https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request |
+| Squashing commits | | | https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit| 
 
 ## To read 
 
