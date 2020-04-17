@@ -143,11 +143,8 @@
   (major1) == 2 && (major2) == 26 && (minor) <= 0)
 #endif /* MIN_TOOL_VERSION_strip */
 
-#ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "addition-0.1.0.0-Gd34nKFF8ZWGSSXsDZ7n7h"
-#endif /* CURRENT_PACKAGE_KEY */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "addition-0.1.0.0-Gd34nKFF8ZWGSSXsDZ7n7h"
+#define CURRENT_COMPONENT_ID "addition-0.1.0.0-KH1YMLctg9eGLubnzxgCGY-generator-examples"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"

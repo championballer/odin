@@ -13,7 +13,8 @@ library
   exposed-modules:       Addition
   ghc-options:           -Wall -fwarn-tabs
   build-depends:         base >=4.7 && <5
-                       , hspec 
+                       , hspec
+                       , QuickCheck
   hs-source-dirs:        .  
   default-language:      Haskell2010
 
@@ -24,3 +25,12 @@ executable recsum
   ghc-options:           -fno-warn-partial-type-signatures
   build-depends:         base >=4.7 && <5
                        , hspec
+
+executable generator-examples
+  import:                config
+  hs-source-dirs:        Generators
+  main-is:               Main.hs
+  ghc-options:           -fno-warn-partial-type-signatures
+  build-depends:         base >=4.7 && <5
+                       , hspec
+                       , QuickCheck
