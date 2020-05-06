@@ -17,12 +17,7 @@ A repository for independent code written, notes and related documents for fun o
 |Work on visualisations for one complete weekend|
 |Reading about different optimisation algorithms and coding them out | 
 |Going through the git blog tutorial |
-
-
-## Completed tasks
-
-| Task | Document |
-| ----- | -------- | 
+|Geometric Deep Learning|
 
 ## Gone Through
 
@@ -47,3 +42,4 @@ A repository for independent code written, notes and related documents for fun o
 |Optimisation algorithms|https://ruder.io/optimizing-gradient-descent|
 |Introduction to probabilistic programming languages | https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce |
 |Federated learning||
+|Introduction to Geometric Deep Learning |https://www.reddit.com/r/MachineLearning/comments/gdyiit/r_introduction_to_geometric_deep_learning/|
