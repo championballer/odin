@@ -29,10 +29,10 @@ A repository for independent code written, notes and related documents for fun o
 | Rebasing and updating pull request | | | https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request |
 | Squashing commits | | | https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit| 
 
-## To read 
+## To go through
 
-| What | Link |
-| ------- | ------- |
+|What|Link|
+|----|----|
 |Machine Learning Fairness | https://developers.google.com/machine-learning/fairness-overview/ |
 |Mixed Precision Training (Tensorflow, Medium) | https://medium.com/tensorflow/automatic-mixed-precision-in-tensorflow-for-faster-ai-training-on-nvidia-gpus-6033234b2540 | 
 |Self-training with Noisy Student improves ImageNet classification | https://arxiv.org/abs/1911.04252 |
@@ -43,3 +43,26 @@ A repository for independent code written, notes and related documents for fun o
 |Introduction to probabilistic programming languages | https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce |
 |Federated learning||
 |Introduction to Geometric Deep Learning |https://www.reddit.com/r/MachineLearning/comments/gdyiit/r_introduction_to_geometric_deep_learning/|
+
+## Deep Mind recommendations
+
+|Name|Link|
+|----|----|
+|Khipu-ai|https://github.com/khipu-ai/practicals-2019|
+|Machine Learning by Nando de Freitas.|https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/|
+|Stanford CS330: Multi-Task and Meta-Learning, 2019|https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5|
+|Podcasts from braininspired (interplay between neuroscience and AI|https://braininspired.co/podcast/|
+|Information Theory, Pattern Recognition, and Neural Networks by late David MacKay|https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6|
+|Deep Learning Demystified|https://deeplearningdemystified.com/|
+|Haiku|https://github.com/deepmind/dm-haiku|
+|Deep Learning Book Ian Goodfellow|http://www.deeplearningbook.org/|
+|Neural Networks and Deep Learning|http://neuralnetworksanddeeplearning.com/|
+
+
+## Important lecture series
+|Name|Link|
+|----|----|
+|2019 Mathematics of Machine Learning Summer School|https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9|
+|Winter 2020 Robotics Colloquium|https://www.youtube.com/watch?v=YfCh5qMYGuQ&list=PLTPQEx-31JXglBI77fRlkAngwUUExSL-n|
+|Natural Language Processing Seminar - Allen School|https://www.youtube.com/watch?v=k7d_Nnv_shw&list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr|
+|CS294-158-SP20 Deep Unsupervised Learning  Spring 2020|https://sites.google.com/view/berkeley-cs294-158-sp20/home|
