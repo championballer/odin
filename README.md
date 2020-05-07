@@ -1,5 +1,5 @@
 # odin
-A repository for independent code written, notes and related documents for fun or experiments.
+A repository for independent code written, notes, resources and related documents for fun or experiments.
 
 ## Important Tutorials/References
 
@@ -66,3 +66,9 @@ A repository for independent code written, notes and related documents for fun o
 |Winter 2020 Robotics Colloquium|https://www.youtube.com/watch?v=YfCh5qMYGuQ&list=PLTPQEx-31JXglBI77fRlkAngwUUExSL-n|
 |Natural Language Processing Seminar - Allen School|https://www.youtube.com/watch?v=k7d_Nnv_shw&list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr|
 |CS294-158-SP20 Deep Unsupervised Learning  Spring 2020|https://sites.google.com/view/berkeley-cs294-158-sp20/home|
+|Modern CPP|https://www.youtube.com/watch?v=F_vIB3yjxaM&list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C|
+|Missing Semester|https://www.youtube.com/watch?v=Z56Jmr9Z34Q&feature=youtu.be|
+|CS 287: Advanced Robotics, Fall 2019|https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/|
+|Foundations of Machine Learning by Bloomberg|https://bloomberg.github.io/foml/#home|
+|CS 229 : Machine Learning by Andrew NG at Stanford|https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU|
+
