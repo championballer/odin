@@ -72,4 +72,5 @@ A repository for independent code written, notes, resources and related document
 |Foundations of Machine Learning by Bloomberg|https://bloomberg.github.io/foml/#home|
 |CS 229 : Machine Learning by Andrew NG at Stanford|https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU|
 |CMU Neural Nets for NLP 2020|https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ|
+|Full Stack Deep Learning Bootcamp (UCB)|https://fullstackdeeplearning.com/march2019|
 
