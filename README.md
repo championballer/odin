@@ -73,4 +73,5 @@ A repository for independent code written, notes, resources and related document
 |CS 229 : Machine Learning by Andrew NG at Stanford|https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU|
 |CMU Neural Nets for NLP 2020|https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ|
 |Full Stack Deep Learning Bootcamp (UCB)|https://fullstackdeeplearning.com/march2019|
+|MIT 6.172 Performance Engineering of Software Systems, Fall 2018|https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf|
 
