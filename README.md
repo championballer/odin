@@ -1,6 +1,8 @@
 # odin
 A repository for independent code written, notes, resources and related documents for fun or experiments.
 
+The best website to get a link for resources to get better at CS : https://teachyourselfcs.com/
+
 ## Important Tutorials/References
 
 | Title | Description | Link |
@@ -9,6 +11,7 @@ A repository for independent code written, notes, resources and related document
 | Optimisation Algorithms||https://ruder.io/optimizing-gradient-descent |
 | Loss functions | | |
 | Git | | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
+| Algorithm lecture series |http://timroughgarden.org/videos.html|
 
 ## To do tasks
 
@@ -75,4 +78,5 @@ A repository for independent code written, notes, resources and related document
 |CMU Neural Nets for NLP 2020|https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ|
 |Full Stack Deep Learning Bootcamp (UCB)|https://fullstackdeeplearning.com/march2019|
 |MIT 6.172 Performance Engineering of Software Systems, Fall 2018|https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf|
+|MIT 16.412J Cognitive Robotics, Spring 2016|https://www.youtube.com/watch?v=_4u9W1xOuts&list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk|
 
