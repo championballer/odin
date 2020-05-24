@@ -79,4 +79,5 @@ The best website to get a link for resources to get better at CS : https://teach
 |Full Stack Deep Learning Bootcamp (UCB)|https://fullstackdeeplearning.com/march2019|
 |MIT 6.172 Performance Engineering of Software Systems, Fall 2018|https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf|
 |MIT 16.412J Cognitive Robotics, Spring 2016|https://www.youtube.com/watch?v=_4u9W1xOuts&list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk|
+|Berkeley CS 162 Operating Systems|https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM|
 
