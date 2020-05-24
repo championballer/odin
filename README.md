@@ -43,6 +43,7 @@ A repository for independent code written, notes, resources and related document
 |Introduction to probabilistic programming languages | https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce |
 |Federated learning||
 |Introduction to Geometric Deep Learning |https://www.reddit.com/r/MachineLearning/comments/gdyiit/r_introduction_to_geometric_deep_learning/|
+|Concurrency in C++|https://www.acodersjourney.com/top-20-cplusplus-multithreading-mistakes/|
 
 ## Deep Mind recommendations
 
