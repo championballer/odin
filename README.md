@@ -81,4 +81,5 @@ The best website to get a link for resources to get better at CS : https://teach
 |MIT 16.412J Cognitive Robotics, Spring 2016|https://www.youtube.com/watch?v=_4u9W1xOuts&list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk|
 |Berkeley CS 162 Operating Systems|https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM|
 |CS:APP CMU|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50|
+|CMU Databases|https://15445.courses.cs.cmu.edu/fall2019/|
 
