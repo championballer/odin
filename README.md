@@ -82,4 +82,5 @@ The best website to get a link for resources to get better at CS : https://teach
 |Berkeley CS 162 Operating Systems|https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM|
 |CS:APP CMU|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50|
 |CMU Databases|https://15445.courses.cs.cmu.edu/fall2019/|
+|CMU Parallel Computer Architecture and Programming|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=250&folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22|
 
