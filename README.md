@@ -83,4 +83,5 @@ The best website to get a link for resources to get better at CS : https://teach
 |CS:APP CMU|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50|
 |CMU Databases|https://15445.courses.cs.cmu.edu/fall2019/|
 |CMU Parallel Computer Architecture and Programming|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=250&folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22|
+|CMU Machine Learning|https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=257476ca-e66a-4cdb-9ffc-8abdd3129954|
 
