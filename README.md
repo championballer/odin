@@ -86,4 +86,7 @@ https://distill.pub/about/
 |CMU Databases|https://15445.courses.cs.cmu.edu/fall2019/|
 |CMU Parallel Computer Architecture and Programming|https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=250&folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22|
 |CMU Machine Learning|https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=257476ca-e66a-4cdb-9ffc-8abdd3129954|
+|Introduction to Image Processing and Computer Vision (CBCSL Learning)|https://www.youtube.com/watch?v=i8RjituGfrQ&list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz|
+|Advanced Computer Vision (CBCSL Learning)|https://www.youtube.com/watch?v=Z_YNkw65gp8&list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T|
+
 
