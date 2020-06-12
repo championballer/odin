@@ -89,5 +89,6 @@ https://distill.pub/about/
 |CMU Machine Learning|https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=257476ca-e66a-4cdb-9ffc-8abdd3129954|
 |Introduction to Image Processing and Computer Vision (CBCSL Learning)|https://www.youtube.com/watch?v=i8RjituGfrQ&list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz|
 |Advanced Computer Vision (CBCSL Learning)|https://www.youtube.com/watch?v=Z_YNkw65gp8&list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T|
+|CS480/680 Spring 2019 - Introduction to Machine Learning|https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html|
 
 
