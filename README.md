@@ -91,5 +91,6 @@ https://distill.pub/about/
 |Advanced Computer Vision (CBCSL Learning)|https://www.youtube.com/watch?v=Z_YNkw65gp8&list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T|
 |CS480/680 Spring 2019 - Introduction to Machine Learning|https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html|
 |CS885 Spring 2020 - Reinforcement Learning|https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/schedule.html|
+|CMU DL |https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Spring.2019/www/|
 
 
