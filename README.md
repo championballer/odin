@@ -50,6 +50,7 @@ https://distill.pub/about/
 |Introduction to Geometric Deep Learning |https://www.reddit.com/r/MachineLearning/comments/gdyiit/r_introduction_to_geometric_deep_learning/|
 |Concurrency in C++|https://www.acodersjourney.com/top-20-cplusplus-multithreading-mistakes/|
 |Low-level Introduction to Tensorflow|https://www.tensorflow.org/guide/eager|
+|Self Supervised Learning|https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html|
 
 ## Deep Mind recommendations
 
