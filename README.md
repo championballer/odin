@@ -93,5 +93,5 @@ https://distill.pub/about/
 |CS480/680 Spring 2019 - Introduction to Machine Learning|https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html|
 |CS885 Spring 2020 - Reinforcement Learning|https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/schedule.html|
 |CMU DL |https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Spring.2019/www/|
-
+|Mathematical methods for engineers|https://www.youtube.com/watch?v=gv-AB35V2k8&list=PL3A13781649466805|
 
