@@ -15,6 +15,7 @@ https://distill.pub/about/
 | Git | | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
 | Algorithm lecture series |http://timroughgarden.org/videos.html|
 |Plotting animations matplotlib|https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1|
+| tmux |https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/|
 
 ## To do tasks
 
