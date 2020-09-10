@@ -11,11 +11,16 @@ https://distill.pub/about/
 | ----- | ----------- | ---- |
 | Subplots | Working with and around subplots in matplotlib | https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html |
 | Optimisation Algorithms||https://ruder.io/optimizing-gradient-descent |
-| Loss functions | | |
 | Git | | https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395 |
 | Algorithm lecture series |http://timroughgarden.org/videos.html|
 |Plotting animations matplotlib|https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1|
 | tmux |https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/|
+
+## General References
+
+| Title | Link|
+|-------|-----|
+|Opaque types in Typescript|https://codemix.com/opaque-types-in-javascript/|
 
 ## To do tasks
 
