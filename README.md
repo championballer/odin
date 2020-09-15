@@ -21,6 +21,7 @@ https://distill.pub/about/
 | Title | Link|
 |-------|-----|
 |Opaque types in Typescript|https://codemix.com/opaque-types-in-javascript/|
+|NACL vs Security Groups on AWS|https://medium.com/awesome-cloud/aws-difference-between-security-groups-and-network-acls-adc632ea29ae|
 
 ## To do tasks
 
