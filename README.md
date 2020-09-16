@@ -22,6 +22,7 @@ https://distill.pub/about/
 |-------|-----|
 |Opaque types in Typescript|https://codemix.com/opaque-types-in-javascript/|
 |NACL vs Security Groups on AWS|https://medium.com/awesome-cloud/aws-difference-between-security-groups-and-network-acls-adc632ea29ae|
+|Typescript records|https://blog.ricardofilipe.com/understanding-typescript-records/#:~:text=A%20definition%20of%20Record,a%20type%20to%20another%20type.|
 
 ## To do tasks
 
