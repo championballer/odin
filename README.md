@@ -23,6 +23,9 @@ https://distill.pub/about/
 |Opaque types in Typescript|https://codemix.com/opaque-types-in-javascript/|
 |NACL vs Security Groups on AWS|https://medium.com/awesome-cloud/aws-difference-between-security-groups-and-network-acls-adc632ea29ae|
 |Typescript records|https://blog.ricardofilipe.com/understanding-typescript-records/#:~:text=A%20definition%20of%20Record,a%20type%20to%20another%20type.|
+|Final keyword in JAVA|https://www.geeksforgeeks.org/final-keyword-java/|
+|Comparison of two strings using equals |https://stackoverflow.com/questions/995918/java-comparison-with-of-two-strings-is-false#:~:text=equals.&text=The%20answer%20is%20very%20simple,objects%20with%20the%20same%20contents.|
+|Stream in JAVA|https://www.geeksforgeeks.org/stream-in-java/#:~:text=A%20stream%20is%20a%20sequence,Arrays%20or%20I%2FO%20channels.|
 
 ## To do tasks
 
