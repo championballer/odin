@@ -107,3 +107,8 @@ https://distill.pub/about/
 |CMU DL |https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Spring.2019/www/|
 |Mathematical methods for engineers|https://www.youtube.com/watch?v=gv-AB35V2k8&list=PL3A13781649466805|
 
+## Projects todo
+|Name|
+|----|
+|Web Scrapper|
+
