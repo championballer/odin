@@ -45,6 +45,7 @@ https://distill.pub/about/
 | Rebasing forked repo to original repo | | |https://digitaldrummerj.me/git-syncing-fork-with-original-repo/|
 | Rebasing and updating pull request | | | https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request |
 | Squashing commits | | | https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit| 
+| Reset to master | | | https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/|
 
 ## To go through
 
