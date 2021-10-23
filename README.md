@@ -46,6 +46,7 @@ https://distill.pub/about/
 | Rebasing and updating pull request | | | https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request |
 | Squashing commits | | | https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit| 
 | Reset to master | | | https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/|
+| Unions vs Intersection Typescript | | | https://levelup.gitconnected.com/typescript-advanced-types-union-and-intersection-types-9283046d7859 | 
 
 ## To go through
 
