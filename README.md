@@ -15,6 +15,7 @@ https://distill.pub/about/
 | Algorithm lecture series |http://timroughgarden.org/videos.html|
 |Plotting animations matplotlib|https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1|
 | tmux |https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/|
+| Writing a browser engine | https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html|
 
 ## General References
 
