@@ -48,6 +48,7 @@ https://distill.pub/about/
 | Squashing commits | | | https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit| 
 | Reset to master | | | https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/|
 | Unions vs Intersection Typescript | | | https://levelup.gitconnected.com/typescript-advanced-types-union-and-intersection-types-9283046d7859 | 
+| Restoring deleted files in git | | | https://rewind.com/blog/recovering-deleted-files-in-github/#:~:text=If%20you%20have%20deleted%20the,file%20from%20the%20previous%20commit. |
 
 ## To go through
 
